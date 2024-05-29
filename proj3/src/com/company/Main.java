@@ -111,5 +111,6 @@ public class Main {
         System.out.println();
         Arrays.stream(new int[]{0, 1, 2, 3, 4, 5}).map(y -> y * y).forEach(y -> System.out.print(y + " "));
         System.out.println();
+
     }
 }
